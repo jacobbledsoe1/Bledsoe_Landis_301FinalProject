@@ -127,7 +127,7 @@ SystemState lastDisplayedState = DISABLED;
 float temperature = 0.0;
 float humidity = 40.0;
 unsigned long lastDisplayUpdate = 0;
-const unsigned long displayInterval = 1000;
+const unsigned long displayInterval = 60000;
 
 // ====== INTERRUPT SETUP ======
 #define START_BUTTON_PIN 18
