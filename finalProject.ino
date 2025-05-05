@@ -1,3 +1,6 @@
+// CPE 301 Final Project || Swamp Cooler
+// Austin Landis & Jacob Bledsoe
+
 #include <LiquidCrystal.h>
 #include <DHT.h>
 #include <Wire.h>
